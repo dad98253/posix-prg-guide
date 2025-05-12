@@ -1,7 +1,9 @@
 ## Example files for the title:  
 	  
 # POSIX Programmers Guide, by Donald Lewine
-	  
+	
+upstream: https://resources.oreilly.com/examples/9780937175736.git
+  
 [![POSIX Programmers Guide, by Donald Lewine](http://akamaicovers.oreilly.com/images/9780937175736/cat.gif)](https://www.safaribooksonline.com/)
 	  
 The following applies to example files from material published by O’Reilly Media, Inc. Content from other publishers may include different rules of usage. Please refer to any additional usage rights explained in the actual example files or refer to the publisher’s website.
